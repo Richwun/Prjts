@@ -1,0 +1,17 @@
+.placeholder {
+        background-color: tan;
+}
+Button{
+    position:relative;
+    left: 155px;
+    top: 180px;
+    font-size: 35;
+
+}
+
+#grid-container {
+ display: flex;
+
+
+
+}
